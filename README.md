@@ -15,9 +15,9 @@
         <li>🌱 I’m currently learning <strong>MERN Stack</strong>.</li>
         <li>👯 I’m looking to collaborate for <strong>Dev Projects</strong>.</li>
         <li>🤔 I’m looking for help with <strong>Competitive Programming</strong>.</li>
-        <li>💬 Ask me about anything, Except Maths 😅.</li>
+        <li>💬 Ask me about anything, Except History 😅.</li>
         <li>🧠 Life Hack: Learn new tech 🔥 and share what you have learned 🎉</li>
-        <li>⚡ Fun fact: I waste most of my time playing games</li>
+        <li>⚡ Fun fact: 🍕 I'm a foodie and love trying out new recipes and cuisines.</li>
       </ul>
     </td>
     <td>
@@ -72,23 +72,6 @@
   <img src="https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
-### 💻 Development Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
-  <img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Consul-CA2171?style=for-the-badge&logo=consul&logoColor=white" />
-</p>
-
 ### ☁️ Cloud & DevOps:
 <p align="left">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -128,6 +111,23 @@
   <img src="https://img.shields.io/badge/-Data Warehousing-007396?style=for-the-badge&logo=data-warehousing&logoColor=white" />
   <img src="https://img.shields.io/badge/-OLAP-007396?style=for-the-badge&logo=olap&logoColor=white" />
   <img src="https://img.shields.io/badge/-Data Mining-007396?style=for-the-badge&logo=data-mining&logoColor=white" />
+</p>
+
+### 💻 Development Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Consul-CA2171?style=for-the-badge&logo=consul&logoColor=white" />
 </p>
 
 ### 🏗 Software Architectures:
