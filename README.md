@@ -143,7 +143,7 @@
 
 ## 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumyajit4419&show_icons=true&theme=radical" alt="Soumyajit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bakarouhajar&show_icons=true&theme=radical" alt="Hajar's GitHub Stats" />
 </p>
 
 ## ❤️ Let's get connected:
