@@ -162,5 +162,5 @@
 
 ## 📊 My GitHub Data:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajit4419&theme=radical&layout=compact" alt="Soumyajit's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakarouhajar&theme=radical&layout=compact" alt="Soumyajit's Top Languages" />
 </p>
