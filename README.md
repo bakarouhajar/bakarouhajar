@@ -5,6 +5,7 @@
 ---
 
 ## 🛠 Technologies and Tools I use:
+
 ### Programming Languages & Frameworks:
 <p align="left">
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -84,7 +85,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux- FCC624?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
 </p>
@@ -119,6 +120,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
+
 
 ## 🔭 I’m currently working on:
 - Something Interesting.
