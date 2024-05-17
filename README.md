@@ -2,21 +2,6 @@
 
 ![Votre texte de paragraphe](https://github.com/bakarouhajar/bakarouhajar/assets/105990605/137dd39a-51e7-4fd2-854f-cf1ca2b53727)
 
-<!-- Banner Image -->
-<img src="https://github.com/soumyajit4419/soumyajit4419/blob/master/banner.png" alt="Banner Image" />
-
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Soumyajit Behera</h1>
-
-<p align="center">
-  <a href="https://soumyajit.vercel.app/">Website</a> •
-  <a href="https://twitter.com/soumyajit4419">Twitter</a> •
-  <a href="https://www.linkedin.com/in/soumyajit4419/">LinkedIn</a> •
-  <a href="https://soumyajitblogs.vercel.app/">Blog</a> •
-  <a href="https://www.instagram.com/soumyajit4419">Instagram</a>
-</p>
-
----
-
 ## 🛠 Technologies and Tools I use:
 <p align="left">
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
