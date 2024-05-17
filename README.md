@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20" height="20"> I'm Hajar BAKAROU</strong></h1>
 
-![Votre texte de paragraphe](https://github.com/bakarouhajar/bakarouhajar/assets/105990605/137dd39a-51e7-4fd2-854f-cf1ca2b53727)
+<img src="https://github.com/bakarouhajar/bakarouhajar/assets/105990605/137dd39a-51e7-4fd2-854f-cf1ca2b53727" alt="Banner Image" />
 
 ---
 
@@ -139,7 +139,7 @@
 
 ## 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bakarouhajar&show_icons=true&theme=radical" alt="Soumyajit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bakarouhajar&show_icons=true&theme=radical" alt="Hajar's GitHub Stats" />
 </p>
 
 ## ❤️ Let's get connected:
@@ -150,5 +150,5 @@
 
 ## 📊 My GitHub Data:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakarouhajar&theme=radical&layout=compact" alt="Soumyajit's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakarouhajar&theme=radical&layout=compact" alt="Hajar's Top Languages" />
 </p>
