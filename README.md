@@ -148,16 +148,8 @@
 
 ## ❤️ Let's get connected:
 <p align="center">
-  <a href="https://soumyajit.vercel.app/"><img src="https://img.shields.io/badge/-Website-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
-  <a href="https://twitter.com/soumyajit4419"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/soumyajit4419/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://soumyajitblogs.vercel.app/"><img src="https://img.shields.io/badge/-Blog-FF4088?style=for-the-badge&logo=Hugo&logoColor=white" /></a>
-  <a href="https://www.instagram.com/soumyajit4419"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-</p>
-
-## 🤝 Support Me:
-<p align="center">
-  <a href="https://www.buymeacoffee.com/soumyajit4419"><img src="https://img.shields.io/badge/-Buy Me a Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://portfolio-hajar-bakarou-bakarouhajar.vercel.app/"><img src="https://img.shields.io/badge/-Website-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hajar-bakarou-655521233/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 </p>
 
 ## 📊 My GitHub Data:
