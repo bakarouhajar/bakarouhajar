@@ -4,6 +4,30 @@
 
 ---
 
+<!-- About Me Section -->
+## About Me:
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🌐 All about me is at <a href="https://portfolio-hajar-bakarou-bakarouhajar.vercel.app/">My Website</a></li>
+        <li>🛠 I’m currently working on <strong>Something Interesting</strong>.</li>
+        <li>🌱 I’m currently learning <strong>MERN Stack</strong>.</li>
+        <li>👯 I’m looking to collaborate for <strong>Dev Projects</strong>.</li>
+        <li>🤔 I’m looking for help with <strong>Competitive Programming</strong>.</li>
+        <li>💬 Ask me about anything, Except Maths 😅.</li>
+        <li>🧠 Life Hack: Learn new tech 🔥 and share what you have learned 🎉</li>
+        <li>⚡ Fun fact: I waste most of my time playing games</li>
+      </ul>
+    </td>
+    <td>
+      <img src="/mnt/data/image.png" alt="Your Image Description" width="300" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠 Technologies and Tools I use:
 
 ### 👨‍💻 Programming Languages:
@@ -61,6 +85,8 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Consul-CA2171?style=for-the-badge&logo=consul&logoColor=white" />
 </p>
 
 ### ☁️ Cloud & DevOps:
@@ -77,7 +103,6 @@
   <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/-TDD-6DB33F?style=for-the-badge&logo=test-driven-development&logoColor=white" />
-
 </p>
 
 ### 🤖 Natural Language Processing (NLP):
@@ -131,34 +156,15 @@
 
 ---
 
-## 🔭 I’m currently working on:
-- Something Interesting.
-
-## 🌱 I’m currently learning:
-- MERN Stack.
-
-## 👯 I’m looking to collaborate on:
-- Dev Projects.
-
-## 🤔 I’m looking for help with:
-- Competitive Programming.
-
-## 💬 Ask me about anything, Except Maths 😅.
-
-## ⚡ Fun fact:
-- I waste most of my time playing games.
-
----
-
-## 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bakarouhajar&show_icons=true&theme=radical" alt="Hajar's GitHub Stats" />
-</p>
-
 ## ❤️ Let's get connected:
 <p align="center">
   <a href="https://www.linkedin.com/in/hajar-bakarou-655521233/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
   <a href="https://portfolio-hajar-bakarou-bakarouhajar.vercel.app/"><img src="https://img.shields.io/badge/-Website-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
+</p>
+
+## 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bakarouhajar&show_icons=true&theme=radical" alt="Hajar's GitHub Stats" />
 </p>
 
 ## 📊 My GitHub Data:
