@@ -21,7 +21,7 @@
       </ul>
     </td>
     <td>
-      <img src="/mnt/data/image.png" alt="Your Image Description" width="300" />
+      
     </td>
   </tr>
 </table>
