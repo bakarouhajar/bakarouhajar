@@ -8,7 +8,7 @@
 ## About Me:
 <table>
   <tr>
-   
+   <td>
       <ul>
         <li>🌐 All about me is at <a href="https://portfolio-hajar-bakarou-bakarouhajar.vercel.app/">My Website</a></li>
         <li>🛠 I’m currently working on <strong>Something Interesting</strong>.</li>
@@ -19,7 +19,7 @@
         <li>🧠 Life Hack: Learn new tech 🔥 and share what you have learned 🎉</li>
         <li>⚡ Fun fact: 🍕 I'm a foodie and love trying out new recipes and cuisines.</li>
       </ul>
-    
+    </td>
    
   </tr>
 </table>
