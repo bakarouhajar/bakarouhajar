@@ -20,9 +20,7 @@
         <li>⚡ Fun fact: 🍕 I'm a foodie and love trying out new recipes and cuisines.</li>
       </ul>
     </td>
-    <td>
-      
-    </td>
+   
   </tr>
 </table>
 
